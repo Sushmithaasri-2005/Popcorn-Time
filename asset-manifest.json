@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Popcorn-Time.git/static/css/main.2395883f.css",
+    "main.js": "/Popcorn-Time.git/static/js/main.7e37c584.js",
+    "index.html": "/Popcorn-Time.git/index.html",
+    "static/media/search.svg": "/Popcorn-Time.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.2395883f.css.map": "/Popcorn-Time.git/static/css/main.2395883f.css.map",
+    "main.7e37c584.js.map": "/Popcorn-Time.git/static/js/main.7e37c584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2395883f.css",
+    "static/js/main.7e37c584.js"
+  ]
+}
